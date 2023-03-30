@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\obj\Debug\anzanaproject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\obj\Debug\anzanaproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\obj\Debug\anzanaproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\bin\Debug\anzanaproject.exe.config
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\bin\Debug\anzanaproject.exe
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\bin\Debug\anzanaproject.pdb
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\obj\Debug\anzanaproject.exe
+C:\Users\Administrator\Desktop\NET\anzanaproject\anzanaproject\obj\Debug\anzanaproject.pdb
